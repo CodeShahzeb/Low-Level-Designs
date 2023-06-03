@@ -1,0 +1,13 @@
+
+]
+java:S1854""@Remove this useless assignment to local variable "gauravEndLoc".(¦•›ç8ª¯‰«ö0
+_
+java:S1854!"BRemove this useless assignment to local variable "gauravStartLoc".(Š¥8ª¯‰«ö0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÙğÂñ8›–“ö0
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ÑŒq8åÃùªö0
+]	java:S125"<This block of commented-out lines of code should be removed.(ŸÃõ«ıÿÿÿÿ8‹Œ‹«ö0
+P
+java:S1481!"3Remove this unused "gauravStartLoc" local variable.(Š¥8·¯‰«ö0
+N
+java:S1481""1Remove this unused "gauravEndLoc" local variable.(¦•›ç8·¯‰«ö0
+X	java:S125$"<This block of commented-out lines of code should be removed.(Û×¼Ÿ8Ç¯‰«ö0
