@@ -1,0 +1,37 @@
+Step 1 : Gather all information
+Step 2 : Create Use cased Diagram
+Step 3 : Use cased Diagram
+Step 4 : Skeleton Code
+Step 5 : Complete code implementation
+
+
+                               Requirements
+
+  1- App will be listing all movies and current shows
+  2- App allows User to search for a movie .
+  3- App will be listing different shows for a movie .
+  4- App allows use to book N numbers of Tickets for a show.
+  5- App allows to Theaters to edit and add shows.
+
+
+                           Assumption
+  1- Every theaters has single screen .
+  2- Every threater has some capacity .
+  3- Registered User can book a ticket but guest user only search for movie .
+  4- Registered user  have their previous book history .
+  5- Movies can be in Two language.
+  6- Movies can have 4 generics ACTION , ROMANCE ,HORROR ,COMEDY.
+  7- We are not considering payment method now.
+
+
+
+
+
+
+
+
+
+
+
+
+
