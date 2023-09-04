@@ -77,6 +77,8 @@ public class ParkingLot {
         // Automated System Generating Ticket
         Ticket piyushTicket = myParkingLot.automatedSystem.generateTicket(piyush);
 
+        System.out.println(availavility);
+
         // Printing Ticket Info
         System.out.println(piyushTicket);
 

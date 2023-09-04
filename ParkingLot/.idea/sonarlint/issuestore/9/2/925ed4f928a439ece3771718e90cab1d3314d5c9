@@ -1,0 +1,16 @@
+
+h	java:S116"SRename this field "Location" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‰ŠÄ
+o
+java:S1450"TRemove the "admin" field and declare it as a local variable in the relevant methods.(ŒÍµÜÿÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(­—”ùıÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(­—”ùıÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(öõÆ¨úÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(îóªÖüÿÿÿÿ
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+G
+java:S1068",Remove this unused "capacity" private field.(Ò—àçşÿÿÿÿ
+B
+java:S1068",Remove this unused "Location" private field.(ù‰ŠÄ
+D
+java:S1068")Remove this unused "admin" private field.(ŒÍµÜÿÿÿÿÿ

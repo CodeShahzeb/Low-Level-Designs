@@ -1,6 +1,6 @@
 Step 1 : Gather all information
 Step 2 : Create Use cased Diagram
-Step 3 : Use cased Diagram
+Step 3 : class based Diagram
 Step 4 : Skeleton Code
 Step 5 : Complete code implementation
 
