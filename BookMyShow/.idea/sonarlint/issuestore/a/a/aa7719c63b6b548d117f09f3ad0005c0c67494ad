@@ -1,0 +1,7 @@
+
+‰
+java:S1319"nThe type of "bookingHistory" should be an interface such as "List" rather than the implementation "ArrayList".( Ü¼ãýÿÿÿÿ
+u
+java:S1104"ZMake bookingHistory a static final constant or non-public and provide accessors if needed.( Ü¼ãýÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»†¶«

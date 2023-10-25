@@ -1,0 +1,9 @@
+
+‚
+java:S1319)"eThe type of "items" should be an interface such as "List" rather than the implementation "ArrayList".(¹ó”ì8ˆ©ÔÅç0
+‚
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "shipment".(Êçòòÿÿÿÿÿ8‹©ÔÅç0
+G
+java:S3010"*Remove this assignment of "numberCounter".(ıû¡8³ÔÅç0
+a
+java:S1128"DRemove this unused import 'java.util.function.DoubleBinaryOperator'.(®÷ã…8Ô³ÔÅç0

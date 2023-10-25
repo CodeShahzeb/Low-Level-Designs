@@ -1,0 +1,64 @@
+
+ƒ
+java:S1319"hThe type of "theaters" should be an interface such as "List" rather than the implementation "ArrayList".(î¹ñüÿÿÿÿ
+‹
+java:S1319#"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(„¯åšÿÿÿÿÿ
+f	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îûš§
+f	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºî¢·
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ”“ƒıÿÿÿÿ
+l	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÛÊîûÿÿÿÿ
+`
+java:S2259}"JA "NullPointerException" could be thrown; "searchedShow" is nullable here.(‡¥û®
+@
+java:S3010"%Remove this assignment of "movieMap".(Ğ÷Ùåûÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(Ğ÷Ùåûÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ŞÚÑã
+A
+java:S1168("+Return an empty collection instead of null.(¥¹ï
+W
+java:S1854;"<Remove this useless assignment to local variable "avengers".(¢‰æ•ûÿÿÿÿ
+P
+java:S1854/":Remove this useless assignment to local variable "piyush".(†œ•½
+O
+java:S1854T"9Remove this useless assignment to local variable "show1".(É†Ÿƒ
+O
+java:S1854Y"9Remove this useless assignment to local variable "show2".(æŠ„Ù
+T
+java:S1854^"9Remove this useless assignment to local variable "show3".(ÓÅÙşÿÿÿÿ
+T
+java:S1854c"9Remove this useless assignment to local variable "show4".(’Ï¶Ëùÿÿÿÿ
+T
+java:S1854o">Remove this useless assignment to local variable "bookMyShow".(»÷æ
+^
+java:S1854”"BRemove this useless assignment to local variable "saurabh_ticket".(©ÛÊîûÿÿÿÿ
+\
+java:S1854“"@Remove this useless assignment to local variable "ayush_ticket".(õ”“ƒıÿÿÿÿ
+X
+java:S1659M"BDeclare "show2" and all following declarations on a separate line.(Àôà¾
+A
+java:S1481/"+Remove this unused "piyush" local variable.(†œ•½
+H
+java:S1481;"-Remove this unused "avengers" local variable.(¢‰æ•ûÿÿÿÿ
+@
+java:S1481M"*Remove this unused "show1" local variable.(Àôà¾
+@
+java:S1481M"*Remove this unused "show2" local variable.(Àôà¾
+@
+java:S1481M"*Remove this unused "show3" local variable.(Àôà¾
+@
+java:S1481M"*Remove this unused "show4" local variable.(Àôà¾
+E
+java:S1481o"/Remove this unused "bookMyShow" local variable.(»÷æ
+u
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+M
+java:S1481“"1Remove this unused "ayush_ticket" local variable.(õ”“ƒıÿÿÿÿ
+O
+java:S1481”"3Remove this unused "saurabh_ticket" local variable.(©ÛÊîûÿÿÿÿ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(š†‘İ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(‡“ÙÊ
+u
+java:S2142­"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(Éèòãøÿÿÿÿ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(ñÜŠ»ÿÿÿÿÿ
